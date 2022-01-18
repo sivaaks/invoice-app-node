@@ -1,1 +1,1 @@
-# diary manager backend deployed URL : https://diary-manager-backend.herokuapp.com/
+# Deployed URL : https://siva-invoice-app.herokuapp.com/
